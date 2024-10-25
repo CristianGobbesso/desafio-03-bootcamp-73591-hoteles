@@ -1,0 +1,63 @@
+/* colores */
+.color-rosa {
+  color: #bb5397;
+}
+
+.color-azul {
+  color: #3c63ae;
+}
+
+/* texto */
+.tipografia-lucida-sans {
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.margen-titulo {
+  margin: 2px;
+}
+
+.texto-centrado {
+  text-align: center;
+}
+
+.tamaño-letra {
+  font-size: 50px;
+}
+
+.espaciado-letra {
+  letter-spacing: 30px;
+}
+
+.espaciado-letra-2 {
+  letter-spacing: 6px;
+}
+
+.grosor-imagen {
+  font-weight:lighter
+}
+
+/* imagenes  */
+.imagen-centrada {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.imagen-centrada img {
+  width: 40%;
+}
+.posicion-derecha {
+  float: right;
+  width: 400px;
+  margin: 10px;
+}
+
+.posicion-izquierda {
+  float: left;
+  width: 400px;
+  margin: 10px;
+}
+
+.ancho-imagen {
+  width: 100%;
+}
