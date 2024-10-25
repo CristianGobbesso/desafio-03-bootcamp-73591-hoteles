@@ -49,13 +49,13 @@
 .posicion-derecha {
   float: right;
   width: 400px;
-  margin: 10px;
+  margin-left: 10px;
 }
 
 .posicion-izquierda {
   float: left;
   width: 400px;
-  margin: 10px;
+  margin-right: 10px;
 }
 
 .ancho-imagen {
